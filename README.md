@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img alt=":)" width="400" src="/assets/wave.gif" />, I'm Arundhathi K M</h1>
+<h1 align="center">Hi <img alt=":)" width="350" height="250" src="https://github.com/KMArundhathi/KMArundhathi/blob/main/wave.gif?raw=true" />, I'm Arundhathi K M</h1>
 <h3 align="center">I'm a Front-end Developer</h3>
 <img align="right" alt="Coding" width="400" src="/assets/work-pic.gif" />
 
