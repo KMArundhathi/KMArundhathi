@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Next.js**
 
-- 📫 How to reach me **arundhathikm69@gmail.com** 
+- 📫 How to reach me **kmarundhathi9@gmail.com** 
 
 👋 Welcome to my quirky corner of GitHub! I'm an MCA graduate from KTU, lazy yet determined to develop unique web apps. Join me as I unravel the mysteries of this digital playground, one extraordinary creation at a time! ✨🚀
 
