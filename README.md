@@ -6,7 +6,7 @@
 
 📌 | working as an R&D Engineer  
 🔬 | focusing on frontend 
-📡 | learning Nextjs 
+📡 | Nextjs Wizard
 
 Welcome to my quirky corner of GitHub! I'm an MCA graduate from KTU, lazy yet determined to develop unique web apps. Join me as I unravel the mysteries of this digital playground, one extraordinary creation at a time! ✨🚀
 
